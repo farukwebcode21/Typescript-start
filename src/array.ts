@@ -18,3 +18,15 @@ function generateAdder(a: number): (b: number) => number {
 const addTwo = generateAdder(2);
 console.log(addTwo(3));
 console.log(addTwo(5));
+
+const friendName: string[] = ["karla", "Potol", "Tomato"];
+const rollNumbers: number[] = [55, 20, 30];
+friendName.push("Karim");
+friendName.push("Sormola");
+console.log(friendName);
+
+
+// Trupel
+const user:[number, string]=[45, "rahim"];
+user.push(500, "Rohima");
+console.log(user);
