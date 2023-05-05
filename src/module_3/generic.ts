@@ -46,3 +46,4 @@
 //   }
 // let output2 = loggingIdentity(["Faruk", "Rakib", "Rustom", 50, 60, 70, true, false]);
 // console.log(output2);
+
